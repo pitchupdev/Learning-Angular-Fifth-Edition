@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.packtpub.com/en-us/unlock?step=1'><img src='https://static.packt-cdn.com/assets/images/packt+events/finalGH_design_redeem.png'/></a></p>
+
 # Learning Angular, Fifth Edition<br>
 by Aristeidis Bampakos<br><br>
 <img src="https://github.com/gaurgv/Learning-Angular-Fifth-Edition/blob/main/Cover.PNG" alt="cover" width="350"/>
